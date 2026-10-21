@@ -1,6 +1,6 @@
 # Costory Plugin for Claude Code
 
-Cloud cost management tools for AWS, GCP, and Azure — powered by [Costory](https://costory.io).
+FinOps agent MCP: one allocated view of cloud, AI and data costs across providers, shared by your whole team with SSO. Starter $300/mo, 30-day free trial. Powered by [Costory](https://costory.io).
 
 ## Installation
 

@@ -2,7 +2,7 @@
   "name": "costory",
   "displayName": "Costory",
   "version": "1.0.0",
-  "description": "Costory — cloud cost management tools for AWS, GCP, and Azure. Query costs, explore metrics, investigate changes, set up alerts, and send reports to Slack.",
+  "description": "FinOps agent MCP: one allocated view of cloud, AI and data costs across providers, shared by your whole team with SSO. Starter $300/mo, 30-day free trial.",
   "author": {
     "name": "Costory",
     "email": "support@costory.io"
